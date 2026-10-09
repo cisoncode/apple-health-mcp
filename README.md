@@ -75,3 +75,5 @@ npm install
 npm test          # Vitest (uses in-memory PGlite, no DB needed)
 npm run dev
 ```
+
+<!-- deploy trigger -->
